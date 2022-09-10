@@ -4,8 +4,8 @@
 - 💞️ I invite you to cooperate
 - 📫 How to contact me
 - :email: Mail: nikapacb@gmail.com
-- :m: Telegram: @purplebliz
-- :headphones: Discord: Purplebliz#0839
+- :m: Telegram: https://t.me/PurpleBliz
+- :headphones: Discord: purplebliz#0839
 
 <!---
 PurpleBliz/PurpleBliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
