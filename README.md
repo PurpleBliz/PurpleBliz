@@ -2,10 +2,7 @@
 - 👀 I’m interested in online game dev
 - 🌱 Now I work for FoxslyGames
 - 💞️ I invite you to cooperate
-- 📫 How to contact me
 - :email: Mail: nikapacb@gmail.com
-- :m: Telegram: https://t.me/PurpleBliz
-- :headphones: Discord: https://discordapp.com/users/858175269243191316/
 
 <!---
 PurpleBliz/PurpleBliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
