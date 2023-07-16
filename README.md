@@ -2,7 +2,7 @@
 - 👀 I’m interested in online game dev
 - 🌱 Now I work for FoxslyGames
 - 💞️ I invite you to cooperate
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=nikapacb+@gmail+.com)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=nikapacb@gmail.com)](https://git.io/typing-svg)
 - :email: Mail: nikapacb@gmail.com
 - 🎧 ![Discord]((https://discordapp.com/users/858175269243191316/))
 
