@@ -4,8 +4,8 @@
 - 💞️ I invite you to cooperate
 - :email: My contacts:
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%7000cc&lines=Email:+nikapacb@gmail.com)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%7000cc&lines=Discord:+purplebliz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8b00ff&lines=Email:+nikapacb@gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8b00ff&lines=Discord:+purplebliz)](https://git.io/typing-svg)
 
 <!---
 PurpleBliz/PurpleBliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
