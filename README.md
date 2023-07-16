@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurpleBliz
 - 👀 I’m interested in online game dev
-- 🌱 I'm currently working on the project Tae age of gangs
+- 🌱 Now I work for FoxslyGames
 - 💞️ I invite you to cooperate
 - 📫 How to contact me
 - :email: Mail: nikapacb@gmail.com
