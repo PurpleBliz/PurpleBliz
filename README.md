@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PurpleBliz
-- 👀 I’m interested in online game dev
-- 🌱 Now I work for FoxslyGames
+- 👀 I’m interested in online game deves
 - 💞️ I invite you to cooperate
 - :email: My contacts:
   
